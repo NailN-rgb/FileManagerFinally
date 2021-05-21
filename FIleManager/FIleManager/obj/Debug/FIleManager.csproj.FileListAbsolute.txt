@@ -1,0 +1,11 @@
+C:\Users\Наиль\source\repos\FIleManager\FIleManager\bin\Debug\FIleManager.exe.config
+C:\Users\Наиль\source\repos\FIleManager\FIleManager\bin\Debug\FIleManager.exe
+C:\Users\Наиль\source\repos\FIleManager\FIleManager\bin\Debug\FIleManager.pdb
+C:\Users\Наиль\source\repos\FIleManager\FIleManager\obj\Debug\FIleManager.csprojAssemblyReference.cache
+C:\Users\Наиль\source\repos\FIleManager\FIleManager\obj\Debug\FIleManager.Form1.resources
+C:\Users\Наиль\source\repos\FIleManager\FIleManager\obj\Debug\FIleManager.Properties.Resources.resources
+C:\Users\Наиль\source\repos\FIleManager\FIleManager\obj\Debug\FIleManager.csproj.GenerateResource.cache
+C:\Users\Наиль\source\repos\FIleManager\FIleManager\obj\Debug\FIleManager.csproj.CoreCompileInputs.cache
+C:\Users\Наиль\source\repos\FIleManager\FIleManager\obj\Debug\FIleManager.exe
+C:\Users\Наиль\source\repos\FIleManager\FIleManager\obj\Debug\FIleManager.pdb
+C:\Users\Наиль\source\repos\FIleManager\FIleManager\obj\Debug\FIleManager.ForCopyAndOtherForm.resources
